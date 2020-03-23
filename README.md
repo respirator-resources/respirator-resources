@@ -17,6 +17,10 @@ _Older files_:
 
 https://reprapltd.com/open-source-oxygen-concentrator/ (by http://adrianbowyer.com/ and team)
 
+### Low-Cost Open-Source Ventilator-ish Device or PAPR
+
+https://github.com/jcl5m1/ventilator
+
 
 ### Coronavirus Makers
 
